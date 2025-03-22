@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

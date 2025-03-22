@@ -1,0 +1,97 @@
+﻿ @page "/HealthGuides/HealthGuideForm"
+
+ @using VaccinaCare.GraphQLClients;
+ @using System.Text.Json;
+ @using VaccinaCare.GraphQLClients.Models;
+
+ @inject HttpClient httpClient;
+ @inject IJSRuntime jsRuntime;
+ @inject NavigationManager navigationManager;
+
+<h3>HealthGuideForm</h3>
+@if (healthGuide == null)
+{
+    <h3>Loading...</h3>
+}
+else
+{
+    <EditForm Model="@healthGuide" OnValidSubmit="SaveHealthGuide">
+        <table class="table"> 
+            <tbody>
+                <tr>
+                    <td>
+                        Title
+                    </td>
+                    <td>
+                        <InputText  class="form-control" @bind-Value="@healthGuide.Title" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Content</td>
+                    <td>
+                        <InputText class="form-control" @bind-Value="@healthGuide.Content" />
+                    </td> 
+                </tr> 
+                <tr>
+                    <td>ImageUrl</td>
+                    <td>
+                        <InputText class="form-control" @bind-Value="@healthGuide.ImageUrl" />
+                    </td> 
+                </tr>
+                <tr>
+                    <td>Author</td>
+                    <td>
+                        <InputText class="form-control" @bind-Value="@healthGuide.Author" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>View</td>
+                    <td>
+                        <InputNumber class="form-control" @bind-Value="@healthGuide.Views" />
+                    </td>
+                </tr>
+                <tr> 
+                    <td></td> 
+                    <button type="submit" class="btn btn-danger">Save</button> 
+                </tr> 
+            </tbody> 
+        </table> 
+    </EditForm> 
+}
+@code {
+    private HealthGuide healthGuide;
+    GraphQLClients.GraphQLConsumer graphQLClient = new GraphQLClients.GraphQLConsumer();
+    protected override async Task OnInitializedAsync()
+    {
+
+        try
+        {
+            if (healthGuide == null)
+                healthGuide = new();
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+
+    protected async Task SaveHealthGuide()
+    {
+        try
+        {
+            healthGuide.IsActive = true;
+            healthGuide.HealthGuideCategorieId = 2;
+            int response = await graphQLClient.CreteHealthGuide(healthGuide);
+            if (response != null)
+            {
+                navigationManager.NavigateTo("/HealthGuides/HealthGuideList");
+            }
+            else
+            {
+            }
+        }
+        catch (Exception ex)
+        {
+        }
+    }
+ }

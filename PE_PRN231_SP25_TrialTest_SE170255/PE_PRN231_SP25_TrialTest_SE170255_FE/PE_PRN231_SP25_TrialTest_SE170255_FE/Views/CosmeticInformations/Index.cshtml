@@ -1,0 +1,75 @@
+﻿@model IEnumerable<CosmeticInformation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form asp-action="Search" method="post">
+    <input type="text" name="cosmeticName" placeholder="Cosmetic Name" value="@Context.Request.Query["cosmeticName"]" />
+    <input type="text" name="skinType" placeholder="Skin Type" value="@Context.Request.Query["skinType"]" />
+    <input type="text" name="cosmeticSize" placeholder="Cosmetic Size" value="@Context.Request.Query["cosmeticSize"]" />
+    <button type="submit">Search</button>
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CosmeticName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SkinType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpirationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CosmeticSize)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DollarPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CosmeticName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SkinType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpirationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CosmeticSize)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DollarPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CosmeticId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CosmeticId">Details</a> |
+                    <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this quiz result?');">
+                        <input type="hidden" name="id" value="@item.CosmeticId" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

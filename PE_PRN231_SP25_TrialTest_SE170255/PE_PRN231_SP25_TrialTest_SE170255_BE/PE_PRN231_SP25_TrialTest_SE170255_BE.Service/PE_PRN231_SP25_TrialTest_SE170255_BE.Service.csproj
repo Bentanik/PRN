@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

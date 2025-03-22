@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oIKCmbHK67CDFAatWPi81YjqUxVSQpCOyBb6Hu33FTg=",
+  "Source": "VaccinaCare.SoapAPIServices.VyNMV",
+  "BasePath": "_content/VaccinaCare.SoapAPIServices.VyNMV",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

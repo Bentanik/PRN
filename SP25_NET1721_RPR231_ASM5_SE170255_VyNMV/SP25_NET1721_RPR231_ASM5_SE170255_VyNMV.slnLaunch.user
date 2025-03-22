@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VaccinaCare.SoapAPIServices.VyNMV\\VaccinaCare.SoapAPIServices.VyNMV.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

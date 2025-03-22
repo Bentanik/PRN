@@ -1,0 +1,77 @@
+﻿@page "/HealthGuides/HealthGuideList"
+@using VaccinaCare.GraphQLClients.Models;
+@using VaccinaCare.GraphQLClients.GraphQLClients;
+<h3>HealthGuideList</h3>
+
+@if (healthGuides == null)
+{
+    <h3>Loading...</h3>
+}
+else
+{
+    <a href="/HealthGuides/HealthGuideForm" class="btn btn-info">Create</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>title</th>
+                <th>content</th>
+                <th>healthGuideCategorieId</th>
+                <th>author</th>
+                <th>createdAt</th>
+                <th>updatedAt</th>
+                <th>isActive</th>
+                <th>views</th>
+                <th>imageUrl</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var healthGuide in healthGuides)
+            {
+                <tr>
+                    <td>
+                        @healthGuide.Id
+                    </td>
+                    <td>
+                        @healthGuide.Title
+                    </td>
+                    <td>
+                        @healthGuide.Content
+                    </td>
+                    <td>
+                        @healthGuide.HealthGuideCategorieId
+                    </td>
+                    <td>
+                        @healthGuide.Author
+                    </td>
+                    <td>
+                        @healthGuide.CreatedAt
+                    </td>
+                    <td>
+                        @healthGuide.UpdatedAt
+                    </td>
+                    <td>
+                        @healthGuide.IsActive
+                    </td>
+                    <td>
+                        <a href="/Schedules/ScheduleDetail/@healthGuide.Id" class="btn btn-info">Detail</a>
+                        &nbsp;
+                        <a href="/Schedules/ScheduleForm/@healthGuide.Id" class="btn btn-info">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<HealthGuide>? healthGuides;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var _graphQLClient = new GraphQLConsumer();
+        var response = await _graphQLClient.GetHealthGuides();
+        healthGuides = response;
+    } 
+}
+

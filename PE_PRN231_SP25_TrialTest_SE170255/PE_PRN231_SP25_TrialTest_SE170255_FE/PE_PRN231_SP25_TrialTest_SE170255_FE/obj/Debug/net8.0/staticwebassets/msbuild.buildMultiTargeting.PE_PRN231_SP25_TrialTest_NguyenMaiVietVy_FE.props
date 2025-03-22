@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.props" />
+</Project>

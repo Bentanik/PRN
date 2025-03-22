@@ -1,0 +1,81 @@
+﻿@page "/HealthGuides/HealthGuideList"
+@using VaccinaCare.Blazor.Client.Models;
+@inject HttpClient httpClient;
+
+<h3>Health Guide List</h3>
+
+@if (healthGuides == null)
+{
+    <h3>Loading...</h3>
+}
+else
+{
+    <a href="/HealthGuide/HealthGuideForm" class="btn btn-info">Create</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Content</th>
+                <th>HealthGuideCategorieId</th>
+                <th>Author</th>
+                <th>CreatedAt</th>
+                <th>UpdatedAt</th>
+                <th>IsActive</th>
+                <th>Views</th>
+                <th>ImageUrl</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var healthGuide in healthGuides)
+            {
+                <tr>
+                    <td>
+                        @healthGuide.Id
+                    </td>
+                    <td>
+                        @healthGuide.Title
+                    </td>
+                    <td>
+                        @healthGuide.Content
+                    </td>
+                    <td>
+                        @healthGuide.HealthGuideCategorieId
+                    </td>
+                    <td>
+                        @healthGuide.Author
+                    </td>
+                    <td>
+                        @healthGuide.CreatedAt
+                    </td>
+                    <td>
+                        @healthGuide.UpdatedAt
+                    </td>
+                    <td>
+                        @healthGuide.IsActive
+                    </td>
+                    <td>
+                        @healthGuide.Views
+                    </td>
+                    <td>
+                        @healthGuide.ImageUrl
+                    </td>
+                    <td>
+                        <a href="/HealthGuides/HealthGuideDetail/@healthGuide.Id" class="btn btn-info">Detail</a>
+                        &nbsp;
+                        <a href="/HealthGuides/HealthGuideForm/@healthGuide.Id" class="btn btn-info">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<HealthGuide>? healthGuides;
+
+    protected override async Task OnInitializedAsync()
+    {
+        healthGuides = await httpClient.GetFromJsonAsync<List<HealthGuide>>("https://localhost:5050/api/HealthGuide");
+    }
+}

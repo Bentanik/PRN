@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vTGqm4lcFgySrqhqcV4F0ptL3mg78/fzIkgy6KwXpZQ=",
+  "Source": "VaccinaCare.GraphQL.APIServices",
+  "BasePath": "_content/VaccinaCare.GraphQL.APIServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

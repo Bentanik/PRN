@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VaccinaCare.GraphQL.APIServices\\VaccinaCare.GraphQL.APIServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VaccinaCare.GraphQLClients\\VaccinaCare.GraphQLClients.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

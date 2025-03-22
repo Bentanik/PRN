@@ -1,0 +1,187 @@
+[
+  {
+    "ContainingType": "VaccinaCare.Blazor.Api.APIServices.Controllers.HealthGuideController",
+    "Method": "Get",
+    "RelativePath": "api/HealthGuide",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VaccinaCare.Repositories.Models.HealthGuide, VaccinaCare.Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VaccinaCare.Blazor.Api.APIServices.Controllers.HealthGuideController",
+    "Method": "Post",
+    "RelativePath": "api/HealthGuide",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "schedule",
+        "Type": "VaccinaCare.Repositories.Models.HealthGuide",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VaccinaCare.Blazor.Api.APIServices.Controllers.HealthGuideController",
+    "Method": "Get",
+    "RelativePath": "api/HealthGuide/{expertResponse}/{location}/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expertResponse",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "location",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VaccinaCare.Repositories.Models.HealthGuide, VaccinaCare.Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VaccinaCare.Blazor.Api.APIServices.Controllers.HealthGuideController",
+    "Method": "Get",
+    "RelativePath": "api/HealthGuide/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VaccinaCare.Repositories.Models.HealthGuide",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VaccinaCare.Blazor.Api.APIServices.Controllers.HealthGuideController",
+    "Method": "Put",
+    "RelativePath": "api/HealthGuide/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "schedule",
+        "Type": "VaccinaCare.Repositories.Models.HealthGuide",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VaccinaCare.Blazor.Api.APIServices.Controllers.HealthGuideController",
+    "Method": "Delete",
+    "RelativePath": "api/HealthGuide/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VaccinaCare.Blazor.Api.APIServices.Controllers.HealthGuideCategoryController",
+    "Method": "Get",
+    "RelativePath": "api/HealthGuideCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VaccinaCare.Repositories.Models.HealthGuideCategory, VaccinaCare.Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

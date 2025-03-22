@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eTTTQMDGXEywLntvSj6eXw8e0eRJ8RFEjpZ2xefAYiY=",
+  "Source": "PE_PRN231_SP25_TrialTest_SE170255_BE.APIService",
+  "BasePath": "_content/PE_PRN231_SP25_TrialTest_SE170255_BE.APIService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

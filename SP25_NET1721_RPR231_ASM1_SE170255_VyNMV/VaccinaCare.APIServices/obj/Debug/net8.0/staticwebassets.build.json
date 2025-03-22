@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lhINH+ExE9z6ek2QGMxpmTD8l2/xPiuTXcDpq/tFtPU=",
+  "Source": "VaccinaCare.APIServices",
+  "BasePath": "_content/VaccinaCare.APIServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

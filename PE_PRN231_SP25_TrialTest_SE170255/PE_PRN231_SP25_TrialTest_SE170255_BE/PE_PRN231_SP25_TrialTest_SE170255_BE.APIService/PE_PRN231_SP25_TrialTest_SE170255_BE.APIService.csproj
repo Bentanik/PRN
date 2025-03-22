@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.OData" Version="8.2.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj" />
+    <ProjectReference Include="..\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VaccinaCare.Blazor.Api.APIServices\\VaccinaCare.Blazor.Api.APIServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VaccinaCare.Blazor.Client\\VaccinaCare.Blazor.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

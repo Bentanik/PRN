@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.Services", "VaccinaCare.Services\VaccinaCare.Services.csproj", "{72EE018F-0728-418B-8FC5-6D56E55E0C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.Repositories", "VaccinaCare.Repositories\VaccinaCare.Repositories.csproj", "{1D5049F4-BD47-4A8A-B169-577E8AFAB7AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.SoapAPIServices.VyNMV", "VaccinaCare.SoapAPIServices.VyNMV\VaccinaCare.SoapAPIServices.VyNMV.csproj", "{D018C490-94C2-4435-B35F-7826B42402E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.SoapClients.MVC.VyNMV", "VaccinaCare.SoapClients.MVC.VyNMV\VaccinaCare.SoapClients.MVC.VyNMV.csproj", "{BF797B46-A311-46B6-AC99-1967ABE2A13E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EE018F-0728-418B-8FC5-6D56E55E0C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EE018F-0728-418B-8FC5-6D56E55E0C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EE018F-0728-418B-8FC5-6D56E55E0C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EE018F-0728-418B-8FC5-6D56E55E0C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5049F4-BD47-4A8A-B169-577E8AFAB7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5049F4-BD47-4A8A-B169-577E8AFAB7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5049F4-BD47-4A8A-B169-577E8AFAB7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5049F4-BD47-4A8A-B169-577E8AFAB7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D018C490-94C2-4435-B35F-7826B42402E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D018C490-94C2-4435-B35F-7826B42402E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D018C490-94C2-4435-B35F-7826B42402E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D018C490-94C2-4435-B35F-7826B42402E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF797B46-A311-46B6-AC99-1967ABE2A13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF797B46-A311-46B6-AC99-1967ABE2A13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF797B46-A311-46B6-AC99-1967ABE2A13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF797B46-A311-46B6-AC99-1967ABE2A13E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

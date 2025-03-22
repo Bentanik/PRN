@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.props" />
+</Project>

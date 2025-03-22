@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.Services", "VaccinaCare.Services\VaccinaCare.Services.csproj", "{2FC43E02-ED5E-49E1-8C79-B4E26DCB65BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.Repositories", "VaccinaCare.Repositories\VaccinaCare.Repositories.csproj", "{D76EA546-CBBB-422F-9F4E-9F5E0D0B7C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.Blazor.Api.APIServices", "VaccinaCare.Blazor.Api.APIServices\VaccinaCare.Blazor.Api.APIServices.csproj", "{4C7B2494-99A3-4EC2-A2A3-E1E76AB2F754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaccinaCare.Blazor.Client", "VaccinaCare.Blazor.Client\VaccinaCare.Blazor.Client.csproj", "{6A728D5F-6DA9-4038-8CEC-8E331B3FDB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC43E02-ED5E-49E1-8C79-B4E26DCB65BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC43E02-ED5E-49E1-8C79-B4E26DCB65BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC43E02-ED5E-49E1-8C79-B4E26DCB65BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC43E02-ED5E-49E1-8C79-B4E26DCB65BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76EA546-CBBB-422F-9F4E-9F5E0D0B7C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76EA546-CBBB-422F-9F4E-9F5E0D0B7C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76EA546-CBBB-422F-9F4E-9F5E0D0B7C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76EA546-CBBB-422F-9F4E-9F5E0D0B7C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7B2494-99A3-4EC2-A2A3-E1E76AB2F754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7B2494-99A3-4EC2-A2A3-E1E76AB2F754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7B2494-99A3-4EC2-A2A3-E1E76AB2F754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7B2494-99A3-4EC2-A2A3-E1E76AB2F754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A728D5F-6DA9-4038-8CEC-8E331B3FDB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A728D5F-6DA9-4038-8CEC-8E331B3FDB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A728D5F-6DA9-4038-8CEC-8E331B3FDB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A728D5F-6DA9-4038-8CEC-8E331B3FDB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
