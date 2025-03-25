@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj": {}
+    "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj": {}
   },
   "projects": {
-    "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj": {
+    "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj",
+        "projectUniqueName": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj",
         "projectName": "PE_PRN231_SP25_TrialTest_SE170255_BE.APIService",
-        "projectPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj",
+        "projectPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService.csproj",
         "packagesPath": "C:\\Users\\vietv\\.nuget\\packages\\",
-        "outputPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\obj\\",
+        "outputPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.APIService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj": {
-                "projectPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj"
+              "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj": {
+                "projectPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj"
               },
-              "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj": {
-                "projectPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj"
+              "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj": {
+                "projectPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -89,18 +89,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj": {
+    "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj",
+        "projectUniqueName": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj",
         "projectName": "PE_PRN231_SP25_TrialTest_SE170255_BE.Repository",
-        "projectPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj",
+        "projectPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj",
         "packagesPath": "C:\\Users\\vietv\\.nuget\\packages\\",
-        "outputPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\obj\\",
+        "outputPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -133,7 +133,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -178,18 +178,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj": {
+    "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj",
+        "projectUniqueName": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj",
         "projectName": "PE_PRN231_SP25_TrialTest_SE170255_BE.Service",
-        "projectPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj",
+        "projectPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj",
         "packagesPath": "C:\\Users\\vietv\\.nuget\\packages\\",
-        "outputPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\obj\\",
+        "outputPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -210,8 +210,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj": {
-                "projectPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj"
+              "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj": {
+                "projectPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository\\PE_PRN231_SP25_TrialTest_SE170255_BE.Repository.csproj"
               }
             }
           }
@@ -226,7 +226,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -247,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

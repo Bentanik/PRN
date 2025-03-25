@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E1ftZPKgEU0=",
+  "dgSpecHash": "ATIBfbKcVnc=",
   "success": true,
-  "projectFilePath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj",
+  "projectFilePath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_BE\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service\\PE_PRN231_SP25_TrialTest_SE170255_BE.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vietv\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vietv\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

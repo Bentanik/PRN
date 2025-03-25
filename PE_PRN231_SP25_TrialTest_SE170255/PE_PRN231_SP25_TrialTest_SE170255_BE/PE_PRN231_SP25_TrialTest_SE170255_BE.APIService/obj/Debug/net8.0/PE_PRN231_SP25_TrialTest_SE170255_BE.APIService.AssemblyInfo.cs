@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PE_PRN231_SP25_TrialTest_SE170255_BE.APIService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b266363828705c455de809b338598e87eff5fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("PE_PRN231_SP25_TrialTest_SE170255_BE.APIService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PE_PRN231_SP25_TrialTest_SE170255_BE.APIService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

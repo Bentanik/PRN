@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PtHF87vehjA=",
+  "dgSpecHash": "YVxX1XigWv4=",
   "success": true,
-  "projectFilePath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj",
+  "projectFilePath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vietv\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\vietv\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

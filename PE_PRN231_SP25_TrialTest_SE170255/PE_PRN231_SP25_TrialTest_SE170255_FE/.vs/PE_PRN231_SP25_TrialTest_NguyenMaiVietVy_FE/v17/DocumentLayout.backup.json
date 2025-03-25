@@ -1,57 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\",
+  "WorkspaceRootPath": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\controllers\\cosmeticinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\controllers\\cosmeticinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vietv\\OneDrive\\M\u00E1y t\u00EDnh\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\views\\cosmeticinformations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\systemaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\learn\\prn231\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\systemaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\views\\systemaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\learn\\prn231\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\learn\\prn231\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\learn\\prn231\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\controllers\\cosmeticinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\controllers\\cosmeticinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|d:\\learn\\prn231\\pe_prn231_sp25_trialtest_se170255\\pe_prn231_sp25_trialtest_se170255_fe\\pe_prn231_sp25_trialtest_se170255_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB6563C-A44D-4B3A-8F80-CEF6B012C520}|PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_NguyenMaiVietVy_FE.csproj|solutionrelative:pe_prn231_sp25_trialtest_se170255_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vietv\\OneDrive\\M\u00E1y t\u00EDnh\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,18 +33,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "doc.cs",
               "DocumentMoniker": "C:\\Users\\vietv\\OneDrive\\M\u00E1y t\u00EDnh\\doc.cs",
               "ToolTip": "C:\\Users\\vietv\\OneDrive\\M\u00E1y t\u00EDnh\\doc.cs",
-              "ViewState": "AgIAANQBAAAAAAAAAAAuwN4BAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T20:31:55.697Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
+              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
+              "ToolTip": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
+              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T11:33:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T11:33:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemAccountController.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
+              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
+              "ToolTip": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
+              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:31:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmeticInformationsController.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
+              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
+              "ToolTip": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
+              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:31:48.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
+              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
+              "ToolTip": "D:\\Learn\\prn231\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
+              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:30:24.314Z",
               "EditorCaption": ""
             },
             {
@@ -84,156 +119,8 @@
               "Name": "ST:0:0:{7b3ecaff-e08f-4f3a-b58b-6fcb36bded45}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Create.cshtml",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Create.cshtml",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Create.cshtml",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T21:21:29.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Details.cshtml",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Details.cshtml",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Details.cshtml",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Details.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T21:19:41.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Index.cshtml",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Index.cshtml",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Index.cshtml",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T21:19:25.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CosmeticInformationsController.cs",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\CosmeticInformationsController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDQAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T21:18:56.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAywAcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:51:09.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwDAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T19:52:40.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\SystemAccount\\Login.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T19:56:26.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:06:55.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Edit.cshtml",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Edit.cshtml",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Views\\CosmeticInformations\\Edit.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwCcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T21:00:24.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SystemAccountController.cs",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Controllers\\SystemAccountController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwFQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T19:46:49.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T20:11:15.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Models\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Models\\LoginRequest.cs",
-              "ToolTip": "D:\\PE_PRN231_SP25_TrialTest_SE170255\\PE_PRN231_SP25_TrialTest_SE170255_FE\\PE_PRN231_SP25_TrialTest_SE170255_FE\\Models\\LoginRequest.cs",
-              "RelativeToolTip": "PE_PRN231_SP25_TrialTest_SE170255_FE\\Models\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T20:03:54.438Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         },
