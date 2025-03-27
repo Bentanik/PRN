@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HealthGuide.Microservices.props" />
+</Project>

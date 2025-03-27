@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fwHu/4HXDFxAhCSXQhtGov7eY89ds9ZdTwW9+kNLZVc=",
+  "Source": "HealthGuideCategory.Microservices",
+  "BasePath": "_content/HealthGuideCategory.Microservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

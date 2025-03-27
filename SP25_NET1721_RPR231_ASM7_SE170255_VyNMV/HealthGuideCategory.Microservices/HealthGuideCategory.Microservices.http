@@ -1,0 +1,6 @@
+@HealthGuideCategory.Microservices_HostAddress = http://localhost:5173
+
+GET {{HealthGuideCategory.Microservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

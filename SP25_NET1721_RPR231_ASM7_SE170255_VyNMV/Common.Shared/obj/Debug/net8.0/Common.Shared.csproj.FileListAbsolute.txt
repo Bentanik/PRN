@@ -1,0 +1,12 @@
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\bin\Debug\net8.0\Common.Shared.deps.json
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\bin\Debug\net8.0\Common.Shared.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\bin\Debug\net8.0\Common.Shared.pdb
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\Common.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\Common.Shared.AssemblyInfoInputs.cache
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\Common.Shared.AssemblyInfo.cs
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\Common.Shared.csproj.CoreCompileInputs.cache
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\Common.Shared.sourcelink.json
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\Common.Shared.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\refint\Common.Shared.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\Common.Shared.pdb
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\Common.Shared\obj\Debug\net8.0\ref\Common.Shared.dll

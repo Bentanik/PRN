@@ -1,0 +1,12 @@
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\bin\Debug\net8.0\BusinessObject.Shared.Models.deps.json
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\bin\Debug\net8.0\BusinessObject.Shared.Models.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\bin\Debug\net8.0\BusinessObject.Shared.Models.pdb
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\BusinessObject.Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\BusinessObject.Shared.Models.AssemblyInfoInputs.cache
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\BusinessObject.Shared.Models.AssemblyInfo.cs
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\BusinessObject.Shared.Models.csproj.CoreCompileInputs.cache
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\BusinessObject.Shared.Models.sourcelink.json
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\BusinessObject.Shared.Models.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\refint\BusinessObject.Shared.Models.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\BusinessObject.Shared.Models.pdb
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\BusinessObject.Shared.Models\obj\Debug\net8.0\ref\BusinessObject.Shared.Models.dll

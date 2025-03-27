@@ -1,0 +1,6 @@
+@HealthGuide.Microservices_HostAddress = http://localhost:5078
+
+GET {{HealthGuide.Microservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

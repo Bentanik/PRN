@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HealthGuide.Microservices\\HealthGuide.Microservices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HealthGuideCategory.Microservices\\HealthGuideCategory.Microservices.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
