@@ -25,7 +25,6 @@ public class HealthGuidService : IHealthGuidService
         healthGuid.CreatedAt = DateTime.UtcNow;
         healthGuid.UpdatedAt = DateTime.UtcNow;
         healthGuid.IsActive = true;
-        healthGuid.HealthGuideCategorieId = 2;
         return await _repository.CreateAsync(healthGuid);
     }
 
@@ -54,8 +53,11 @@ public class HealthGuidService : IHealthGuidService
         return await _repository.Search(expertResponse, location, name);
     }
 
-    public async Task<int> Update(HealthGuide schedule)
+    public async Task<int> Update(HealthGuide healthGuid)
     {
-        return await _repository.UpdateAsync(schedule);
+        healthGuid.CreatedAt = DateTime.UtcNow;
+        healthGuid.UpdatedAt = DateTime.UtcNow;
+        healthGuid.IsActive = true;
+        return await _repository.UpdateAsync(healthGuid);
     }
 }

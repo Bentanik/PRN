@@ -26,3 +26,4 @@ D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Repositories
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Repositories\obj\Debug\net8.0\VaccinaCare.Repositories.pdb
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Repositories\obj\Debug\net8.0\VaccinaCare.Repositories.genruntimeconfig.cache
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Repositories\obj\Debug\net8.0\ref\VaccinaCare.Repositories.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Repositories\obj\Debug\net8.0\VaccinaCare.Repositories.sourcelink.json

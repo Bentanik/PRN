@@ -1,0 +1,262 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<h1>HealthGuideCategory - Call ResultFullApi from Client via jQuery.Ajax</h1>
+
+<div class="">
+    <button type="button" class="btn btn-primary" onclick="add();">
+        Add
+    </button>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                IsActive
+            </th>
+        </tr>
+
+    </thead>
+    <tbody class="tblBody"></tbody>
+</table>
+
+@* Create *@
+<div class="modal fade" id="healthGuideModel" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="healthGuideModalLabel">Create HealthGuide Category</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="post" id="healthGuideForm">
+                <div class="modal-body">
+                    <div class="d-flex flex-column">
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Name</label>
+                            <input type="text" id="name" name="Name" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="desc" class="form-label">Description</label>
+                            <textarea id="desc" name="Description" class="form-control" rows="4" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@* View *@
+<div class="modal fade" id="healthGuideDetailModel" tabindex="-1" aria-labelledby="detailModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="detailModalLabel">HealthGuide Category Detail</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p><strong>Id:</strong> <span id="detail-id"></span></p>
+                <p><strong>Name:</strong> <span id="detail-name"></span></p>
+                <p><strong>Description:</strong> <span id="detail-description"></span></p>
+                <p><strong>Is Active:</strong> <span id="detail-isActive"></span></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@* Edit *@
+<div class="modal fade" id="healthGuideModelEdit" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="healthGuideModalLabelEdit">Edit HealthGuide Category</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="post" id="healthGuideFormEdit">
+                <div class="modal-body">
+                    <div class="d-flex flex-column">
+                        <div class="mb-3">
+                            <label for="idEdit" class="form-label">Id</label>
+                            <input type="text" id="idEdit" name="Id" class="form-control" disabled />
+                        </div>
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Name</label>
+                            <input type="text" id="nameEdit" name="Name" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="desc" class="form-label">Description</label>
+                            <textarea id="descEdit" name="Description" class="form-control" rows="4" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script type="text/javascript">
+                $(document).ready(function () {
+                loadData();
+                $('#healthGuideForm').submit(function (e) {
+                    e.preventDefault();
+
+                    var formData = {
+                        name: $('#name').val(),
+                        description: $('#desc').val()
+                    };
+
+                    $.ajax({
+                        url: 'https://localhost:5050/api/HealthGuideCategory',
+                        type: 'POST',
+                        contentType: "application/json",
+                        data: JSON.stringify(formData),
+                        success: function (response) {
+                            alert("Thêm thành công!");
+                            location.reload();
+                        },
+                        error: function () {
+                            alert("Có lỗi xảy ra!");
+                        }
+                    });
+                });
+
+                $('#healthGuideFormEdit').submit(function (e) {
+                    e.preventDefault();
+
+                    var id = $("#idEdit").val();
+                    var formData = {
+                        id: id,
+                        name: $('#nameEdit').val(),
+                        description: $('#descEdit').val(),
+                    };
+
+                    $.ajax({
+                        url: 'https://localhost:5050/api/HealthGuideCategory/' + id,
+                        type: 'PUT',
+                        contentType: "application/json",
+                        data: JSON.stringify(formData),
+                        success: function (response) {
+                            alert("Chỉnh sửa thành công!");
+                            location.reload();
+                        },
+                        error: function () {
+                            alert("Có lỗi xảy ra!");
+                        }
+                    });
+                });
+        });
+        function loadData() {
+            $.ajax({
+                url: 'https://localhost:5050/api/HealthGuideCategory',
+                type: "GET",
+                contentType: "application/json;charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    var html = '';
+                      $.each(result, function (key, item) {
+                        html += '<tr>';
+                        html += '<td>' + item.id + '</td>';
+                        html += '<td>' + item.name + '</td>';
+                        html += '<td>' + item.description + '</td>';
+                        html += '<td>' + item.isActive + '</td>';
+                        html += '<td>';
+                        html += '<button class="btn btn-info" onclick="viewDetail(' + item.id + ')">View</button> ';
+                        html += '<button class="btn btn-warning" onclick="edit(' + item.id + ')">Edit</button>';
+                        html += '<button class="btn btn-warning" onclick="deleteItem(' + item.id + ')">Delete</button>';
+                        html += '</td>';
+                        html += '</tr>';
+                    });
+
+                    $('.tblBody').html(html);
+                },
+                error: function (xhr, error) {
+                    alert(xhr.statusText);
+                }
+            });
+        }
+        function add() {
+            $("#healthGuideModalLabel").html("Create HealthGuide Category");
+            $('#healthGuideModel').modal('show');
+        }
+
+        function edit(id) {
+            $("#healthGuideModalLabelEdit").html("Edit Category");
+            $('#healthGuideModelEdit').modal('show');
+
+            $.ajax({
+                url: 'https://localhost:5050/api/HealthGuideCategory/' + id,
+                type: "GET",
+                contentType: "application/json",
+                success: function (data) {
+                    $('#idEdit').val(data.id);
+                    $('#nameEdit').val(data.name);
+                    $('#descEdit').val(data.description);
+                    $('#healthGuideForm').attr('data-id', id); // Lưu ID vào form để cập nhật
+                },
+                error: function () {
+                    alert("Lỗi khi lấy dữ liệu!");
+                }
+            });
+            
+        }
+
+        function deleteItem(id) {
+            $.ajax({
+                url: 'https://localhost:5050/api/HealthGuideCategory/' + id,
+                type: "DELETE",
+                success: function (data) {
+                     alert("Xóa thành công!");
+                     location.reload();
+                },
+                error: function () {
+                    alert("Lỗi khi lấy dữ liệu!");
+                }
+            });
+        }
+        
+        function viewDetail(id) {
+            $.ajax({
+                url: 'https://localhost:5050/api/HealthGuideCategory/' + id,
+                type: "GET",
+                contentType: "application/json",
+                success: function (data) {
+                    // Gán dữ liệu vào modal
+                    $('#detail-id').text(data.id);
+                    $('#detail-name').text(data.name);
+                    $('#detail-description').text(data.description);
+                    $('#detail-isActive').text(data.isActive ? 'Yes' : 'No');
+
+                    // Mở modal
+                    $('#healthGuideDetailModel').modal('show');
+                },
+                error: function () {
+                    alert("Lỗi khi lấy dữ liệu!");
+                }
+            });
+        }
+
+
+    </script>
+}

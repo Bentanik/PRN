@@ -112,3 +112,4 @@ D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapClients.
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapClients.MVC.VyNMV\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapClients.MVC.VyNMV\obj\Debug\net8.0\VaccinaCare.SoapClients.MVC.VyNMV.csproj.AssemblyReference.cache
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapClients.MVC.VyNMV\obj\Debug\net8.0\VaccinaC.988F75BD.Up2Date
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapClients.MVC.VyNMV\obj\Debug\net8.0\VaccinaCare.SoapClients.MVC.VyNMV.sourcelink.json

@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+option csharp_namespace = "VaccinaCare.gRPC.Protos.HealthGuide";
+
+package healthGuide;
+
+service HealthGuideGrpc {
+    rpc GetAll(EmptyRequest) returns (HealthGuideList);
+    rpc GetById(HealthGuideIdRequest) returns (HealthGuide);
+    rpc DeleteById(HealthGuideIdRequest) returns (ActionResult);
+    rpc Add(HealthGuide) returns (ActionResult);
+    rpc Edit(HealthGuide) returns (ActionResult);
+}
+
+message EmptyRequest {}
+
+message HealthGuideIdRequest {
+    int32 HealthGuideId = 1;
+}
+
+message ActionResult {
+    int32 Status = 1;
+    string Message = 2;
+    HealthGuideList Result = 3;
+}
+
+message HealthGuideList {
+    repeated HealthGuide Data = 1;
+}
+
+message HealthGuideCategory {
+    int32 Id = 1;
+    string Name = 2;
+}
+
+message HealthGuide {
+  int32 id = 1;
+  string title = 2;
+  string content = 3;
+  int32 health_guide_categorie_id = 4;
+  string author = 5;
+  string created_at = 6;
+  string updated_at = 7;
+  bool is_active = 8;
+  int32 views = 9;
+  string image_url = 10;
+  HealthGuideCategory HealthGuideCategorie = 11;
+}

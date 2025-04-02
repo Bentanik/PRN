@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "VaccinaCare.GraphQLClients",
   "resources": {
-    "hash": "sha256-1851ClmyIroL/xGhrQ5/Z9un5LQVEc9SD1sekpYadlQ=",
+    "hash": "sha256-iqJRsKi9Kdv85dJN6CvjkP5zOf3HkN+SpLSoSNJms6c=",
     "jsModuleNative": {
-      "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
+      "dotnet.native.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.js": "sha256-aTAnT1r/EAWev8oI/mTFI9nH3RsfA5M822bNiGhok6U="
+      "dotnet.runtime.js": "sha256-44Vu7OSX4JP89eoc3oTYbYfC5C7USoIWuCw1W9IG6N4="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-4X9eav+Ak45oe3jDiM7H2gSxg1ZRzmhn9QfZURenUbE="
+      "dotnet.native.wasm": "sha256-mICh/Z0HwmHNDnkBnBbRTyDkRYBu3OBkhmuy2F7aUSU="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -218,10 +218,10 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "VaccinaCare.GraphQLClients.wasm": "sha256-It6wV8yaG0N7rHulhXBV+dr4G3i9m/a9JEmwKh7u70g="
+      "VaccinaCare.GraphQLClients.wasm": "sha256-9kZVGZcJKIfhDTpsp0DSMd2zmHF1PsVs7iJ3I/QTNZA="
     },
     "pdb": {
-      "VaccinaCare.GraphQLClients.pdb": "sha256-+Q5rbnioGoVUGfLn5Gox1JWiDxOJa6l88iNI7tqrKj0="
+      "VaccinaCare.GraphQLClients.pdb": "sha256-0x9qbNvOAyhofwRDEmXmdzZDtAfJXUdiHAwxG+z2pzs="
     }
   },
   "cacheBootResources": true,

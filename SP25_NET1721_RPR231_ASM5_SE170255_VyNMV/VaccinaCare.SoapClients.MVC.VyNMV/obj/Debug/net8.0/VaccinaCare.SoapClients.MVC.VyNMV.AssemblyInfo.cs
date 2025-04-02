@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VaccinaCare.SoapClients.MVC.VyNMV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be517349a32358d8d3e74f5b8ef3d6ac1adee246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ceda4f005b3181e1abe69b42d3d6c40fec33383")]
 [assembly: System.Reflection.AssemblyProductAttribute("VaccinaCare.SoapClients.MVC.VyNMV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VaccinaCare.SoapClients.MVC.VyNMV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

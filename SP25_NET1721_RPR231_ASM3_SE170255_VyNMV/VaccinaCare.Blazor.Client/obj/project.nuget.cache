@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xkFYYtIlP8E=",
+  "dgSpecHash": "pdXN6F1VXmI=",
   "success": true,
   "projectFilePath": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM3_SE170255_VyNMV\\VaccinaCare.Blazor.Client\\VaccinaCare.Blazor.Client.csproj",
   "expectedPackageFiles": [
@@ -28,8 +28,8 @@
     "C:\\Users\\vietv\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\vietv\\.nuget\\packages\\microsoft.jsinterop\\8.0.13\\microsoft.jsinterop.8.0.13.nupkg.sha512",
     "C:\\Users\\vietv\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.13\\microsoft.jsinterop.webassembly.8.0.13.nupkg.sha512",
-    "C:\\Users\\vietv\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.12\\microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
-    "C:\\Users\\vietv\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.1\\microsoft.net.sdk.webassembly.pack.9.0.1.nupkg.sha512",
+    "C:\\Users\\vietv\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "C:\\Users\\vietv\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.3\\microsoft.net.sdk.webassembly.pack.9.0.3.nupkg.sha512",
     "C:\\Users\\vietv\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []

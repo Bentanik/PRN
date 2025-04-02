@@ -78,21 +78,19 @@
               "RelativeToolTip": "HealthGuideCategory.Microservices\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:22:25.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:22:25.713Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HealthGuide.Microservices",
+              "Title": "HealthGuide.Microservices.csproj",
               "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\\HealthGuide.Microservices\\HealthGuide.Microservices.csproj",
               "RelativeDocumentMoniker": "HealthGuide.Microservices\\HealthGuide.Microservices.csproj",
               "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\\HealthGuide.Microservices\\HealthGuide.Microservices.csproj",
               "RelativeToolTip": "HealthGuide.Microservices\\HealthGuide.Microservices.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-25T08:13:39.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:13:39.9Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "RelativeToolTip": "HealthGuideCategory.Microservices\\Consumers\\HealthGuideConsumer.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:12:37.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:12:37.587Z"
             },
             {
               "$type": "Document",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "HealthGuideCategory.Microservices\\Controllers\\HealthGuideCategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:09:59.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:09:59.27Z"
             },
             {
               "$type": "Document",
@@ -128,7 +124,7 @@
               "RelativeDocumentMoniker": "HealthGuide.Microservices\\Controllers\\HealthGuideController.cs",
               "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\\HealthGuide.Microservices\\Controllers\\HealthGuideController.cs",
               "RelativeToolTip": "HealthGuide.Microservices\\Controllers\\HealthGuideController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T07:50:26.576Z",
               "EditorCaption": ""
@@ -143,8 +139,7 @@
               "RelativeToolTip": "OcelotAPIGateway\\ocelot.json",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-25T07:43:52.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T07:43:52.353Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "HealthGuide.Microservices\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:52:50.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T07:52:50.025Z"
             },
             {
               "$type": "Document",
@@ -169,21 +163,19 @@
               "RelativeToolTip": "OcelotAPIGateway\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswCIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:40:41.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T07:40:41.436Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "HealthGuideCategory.Microservices",
+              "Title": "HealthGuideCategory.Microservices.csproj",
               "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\\HealthGuideCategory.Microservices\\HealthGuideCategory.Microservices.csproj",
               "RelativeDocumentMoniker": "HealthGuideCategory.Microservices\\HealthGuideCategory.Microservices.csproj",
               "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM7_SE170255_VyNMV\\HealthGuideCategory.Microservices\\HealthGuideCategory.Microservices.csproj",
               "RelativeToolTip": "HealthGuideCategory.Microservices\\HealthGuideCategory.Microservices.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-25T08:13:47.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:13:47.217Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "HealthGuide.Microservices\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-25T08:10:01.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:10:01.86Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "Common.Shared\\JsonUtil.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:57:32.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T07:57:32.803Z"
             }
           ]
         },

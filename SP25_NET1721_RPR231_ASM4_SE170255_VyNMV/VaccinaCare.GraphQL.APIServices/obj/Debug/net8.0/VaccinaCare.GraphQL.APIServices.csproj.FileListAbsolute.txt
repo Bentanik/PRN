@@ -122,3 +122,4 @@ D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.GraphQL.APIS
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.GraphQL.APIServices\obj\Debug\net8.0\VaccinaCare.GraphQL.APIServices.pdb
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.GraphQL.APIServices\obj\Debug\net8.0\VaccinaCare.GraphQL.APIServices.genruntimeconfig.cache
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.GraphQL.APIServices\obj\Debug\net8.0\ref\VaccinaCare.GraphQL.APIServices.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.GraphQL.APIServices\obj\Debug\net8.0\VaccinaCare.GraphQL.APIServices.sourcelink.json

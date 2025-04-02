@@ -120,3 +120,4 @@ D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapAPIServi
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapAPIServices.VyNMV\bin\Debug\net8.0\VaccinaCare.Services.dll
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapAPIServices.VyNMV\bin\Debug\net8.0\VaccinaCare.Services.pdb
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapAPIServices.VyNMV\bin\Debug\net8.0\VaccinaCare.Repositories.pdb
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\VaccinaCare.SoapAPIServices.VyNMV\obj\Debug\net8.0\VaccinaCare.SoapAPIServices.VyNMV.sourcelink.json

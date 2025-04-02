@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VaccinaCare.gRPC\\VaccinaCare.gRPC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VaccinaCare.MVCAppFE\\VaccinaCare.MVCAppFE.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

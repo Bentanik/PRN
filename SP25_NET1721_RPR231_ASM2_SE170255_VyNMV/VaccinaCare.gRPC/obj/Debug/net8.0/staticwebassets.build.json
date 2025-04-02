@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jwnx6NOZU0qR62fxnRspzVvMTK07NU+bheV7DsMBT+w=",
+  "Source": "VaccinaCare.gRPC",
+  "BasePath": "_content/VaccinaCare.gRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

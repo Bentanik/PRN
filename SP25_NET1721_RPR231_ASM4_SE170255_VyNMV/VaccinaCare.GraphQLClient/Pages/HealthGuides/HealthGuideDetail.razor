@@ -1,0 +1,145 @@
+﻿@* @page "/Schedules/ScheduleDetail/{Id}" *@
+
+@* @using PremaritalCounseling.Blazor.Client.Models; *@
+@* @using PremaritalCounseling.GraphQLClient.HienNM.GraphQLClients *@
+
+@* @inject HttpClient httpClient; *@
+@* @inject IJSRuntime jsRuntime; *@
+@* @inject NavigationManager navigationManager; *@
+
+@* <h3>ScheduleDetail</h3> *@
+
+@* @if (schedule == null) *@
+@* { *@
+@*     <h3>Loading...</h3> *@
+@* } *@
+@* else *@
+@* { *@
+@*     <table class="table"> *@
+@*         <tbody> *@
+@*             <tr> *@
+@*                 <td>CompletedAt</td> *@
+@*                 <td> *@
+@*                     @schedule.CompletedAt *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>Time</td> *@
+@*                 <td> *@
+@*                     @schedule.Time *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>ExpertNote</td> *@
+@*                 <td> *@
+@*                     @schedule.ExpertNote *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>ReferedLink</td> *@
+@*                 <td> *@
+@*                     @schedule.ReferedLink *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>CustomerNote</td> *@
+@*                 <td> *@
+@*                     @schedule.CustomerNote *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>ExpertResponse</td> *@
+@*                 <td> *@
+@*                     @schedule.ExpertResponse *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>RescheduledTime</td> *@
+@*                 <td> *@
+@*                     @schedule.RescheduledTime *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>RescheduledCount</td> *@
+@*                 <td> *@
+@*                     @schedule.RescheduledCount *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>AppointmentMode</td> *@
+@*                 <td> *@
+@*                     @schedule.AppointmentMode *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>Location</td> *@
+@*                 <td> *@
+@*                     @schedule.Location *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>Priority</td> *@
+@*                 <td> *@
+@*                     @schedule.Priority *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>ReminderSent</td> *@
+@*                 <td> *@
+@*                     @schedule.ReminderSent *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>ScheduleType</td> *@
+@*                 <td> *@
+@*                     @schedule.ScheduleType.Name *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <tr> *@
+@*                 <td>Service</td> *@
+@*                 <td> *@
+@*                     @schedule.Service.Name *@
+@*                 </td> *@
+@*             </tr> *@
+@*             <a href="@($"/Schedules/ScheduleForm/{schedule?.Id}")" class="btn btn-info">Edit</a> *@
+@*             &nbsp;&nbsp; *@
+@*             <button type="button" class="btn btn-danger" onclick="@(async () => await DeleteSchedule())">Delete</button> *@
+@*         </tbody> *@
+@*     </table> *@
+@* } *@
+
+@* @code { *@
+@*     private Schedule schedule; *@
+@*     [Parameter] *@
+@*     public string Id { get; set; } *@
+@*     protected override async Task OnInitializedAsync() *@
+@*     { *@
+@*         var _graphQLClient = new GraphQLConsumer(); *@
+@*         schedule = await _graphQLClient.GetDetailsSchedule(Id); *@
+@*     } *@
+
+@*     protected async Task DeleteSchedule() *@
+@*     { *@
+@*         var confirm = await jsRuntime.InvokeAsync<bool>("confirm", $"Do you want to delete {Id}?"); *@
+@*         if (confirm) *@
+@*         { *@
+@*             try *@
+@*             { *@
+@*                 using (var response = await httpClient.DeleteAsync($"https://localhost:7132/api/Schedule/{Id}")) *@
+@*                 { *@
+@*                     if (response.IsSuccessStatusCode) *@
+@*                     { *@
+@*                         await jsRuntime.InvokeVoidAsync("showAlert", "success", "Delete Successfully!"); *@
+@*                         navigationManager.NavigateTo("/Schedules/ScheduleList"); *@
+@*                         return; *@
+@*                     } *@
+@*                     await jsRuntime.InvokeVoidAsync("showAlert", "error", "Failed to delete the schedule. Please try again."); *@
+@*                 } *@
+@*             } *@
+@*             catch (Exception ex) *@
+@*             { *@
+@*                 await jsRuntime.InvokeVoidAsync("showAlert", "error", "Failed to delete the schedule. Please try again."); *@
+@*             } *@
+@*         } *@
+@*     } *@
+@* } *@

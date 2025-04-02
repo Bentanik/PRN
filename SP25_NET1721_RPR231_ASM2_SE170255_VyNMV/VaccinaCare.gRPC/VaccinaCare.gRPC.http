@@ -1,0 +1,6 @@
+@VaccinaCare.gRPC_HostAddress = http://localhost:5249
+
+GET {{VaccinaCare.gRPC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

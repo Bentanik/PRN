@@ -89,3 +89,4 @@ D:\Learn\prn231\SP25_NET1721_RPR231_ASM1_SE170255_VyNMV\VaccinaCare.APIServices\
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM1_SE170255_VyNMV\VaccinaCare.APIServices\bin\Debug\net8.0\Microsoft.OData.Edm.dll
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM1_SE170255_VyNMV\VaccinaCare.APIServices\bin\Debug\net8.0\Microsoft.OData.ModelBuilder.dll
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM1_SE170255_VyNMV\VaccinaCare.APIServices\bin\Debug\net8.0\Microsoft.Spatial.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM1_SE170255_VyNMV\VaccinaCare.APIServices\obj\Debug\net8.0\VaccinaCare.APIServices.sourcelink.json

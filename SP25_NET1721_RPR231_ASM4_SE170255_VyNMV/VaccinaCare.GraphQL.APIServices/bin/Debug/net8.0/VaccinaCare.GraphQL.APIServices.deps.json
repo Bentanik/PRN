@@ -1119,7 +1119,7 @@
         },
         "runtime": {
           "VaccinaCare.Repositories.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1130,7 +1130,7 @@
         },
         "runtime": {
           "VaccinaCare.Services.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

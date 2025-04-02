@@ -28,3 +28,4 @@ D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Services\obj
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Services\obj\Debug\net8.0\refint\VaccinaCare.Services.dll
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Services\obj\Debug\net8.0\VaccinaCare.Services.pdb
 D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Services\obj\Debug\net8.0\ref\VaccinaCare.Services.dll
+D:\Learn\prn231\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\VaccinaCare.Services\obj\Debug\net8.0\VaccinaCare.Services.sourcelink.json

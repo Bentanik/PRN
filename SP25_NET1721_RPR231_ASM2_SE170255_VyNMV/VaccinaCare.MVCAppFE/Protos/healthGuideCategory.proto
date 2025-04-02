@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace = "VaccinaCare.gRPC.Clients.Protos.HealthGuideCategory";
+
+package healthGuideCategory;
+
+service HealthGuideCategoryGrpc {
+    rpc GetAll(EmptyRequest) returns (HealthGuideCategoryList);
+}
+
+message EmptyRequest {}
+
+message HealthGuideCategoryList {
+    repeated HealthGuideCategory Data = 1;
+}
+
+message HealthGuideCategory {
+  int32 id = 1;
+  string name = 2;
+  string description = 3;
+  bool is_active = 4;
+}
