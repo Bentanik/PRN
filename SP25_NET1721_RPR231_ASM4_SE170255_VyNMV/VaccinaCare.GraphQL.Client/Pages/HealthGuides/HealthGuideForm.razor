@@ -1,0 +1,99 @@
+﻿@page "/HealthGuides/HealthGuideForm/{id:int?}"
+@using VaccinaCare.GraphQL.Client;
+@using VaccinaCare.GraphQL.Client.GraphQLClients;
+@using VaccinaCare.GraphQL.Client.Models;
+@inject NavigationManager navigationManager;
+
+<h3>@(healthGuide?.Id == null ? "Create" : "Edit") Health Guide</h3>
+
+@if (healthGuide == null)
+{
+    <h3>Loading...</h3>
+}
+else
+{
+    <EditForm Model="@healthGuide" OnValidSubmit="SaveHealthGuide">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <td>Title</td>
+                    <td><InputText class="form-control" @bind-Value="healthGuide.Title" /></td>
+                </tr>
+                <tr>
+                    <td>Content</td>
+                    <td><InputText class="form-control" @bind-Value="healthGuide.Content" /></td>
+                </tr>
+                <tr>
+                    <td>ImageUrl</td>
+                    <td><InputText class="form-control" @bind-Value="healthGuide.ImageUrl" /></td>
+                </tr>
+                <tr>
+                    <td>Author</td>
+                    <td><InputText class="form-control" @bind-Value="healthGuide.Author" /></td>
+                </tr>
+                <tr>
+                    <td>Views</td>
+                    <td><InputNumber class="form-control" @bind-Value="healthGuide.Views" /></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><button type="submit" class="btn btn-danger">@((healthGuide?.Id == null) ? "Create" : "Update")</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </EditForm>
+}
+
+@code {
+    [Parameter] public int? Id { get; set; }
+    private HealthGuide healthGuide;
+
+    GraphQLConsumer graphQLClient = new GraphQLConsumer();
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (Id.HasValue)
+        {
+            // Nếu có Id, là chế độ chỉnh sửa, lấy thông tin HealthGuide từ backend
+            healthGuide = await graphQLClient.GetDetailsHealthGuide(Id.Value.ToString());
+        }
+        else
+        {
+            // Nếu không có Id, là chế độ tạo mới, tạo một HealthGuide rỗng
+            healthGuide = new HealthGuide();
+        }
+    }
+
+    protected async Task SaveHealthGuide()
+    {
+        try
+        {
+            // Thiết lập các giá trị cần thiết, ví dụ: mặc định IsActive = true
+            healthGuide.IsActive = true;
+            healthGuide.HealthGuideCategorieId = 2; // Giả sử bạn có giá trị này từ phía backend
+
+            if (healthGuide.Id.HasValue)
+            {
+                // Nếu đã có Id, thì gọi cập nhật
+                var response = await graphQLClient.UpdateHealthGuide(healthGuide);
+                if (response)
+                {
+                    navigationManager.NavigateTo("/HealthGuides/HealthGuideList");
+                }
+            }
+            else
+            {
+                // Nếu không có Id, gọi tạo mới
+                var response = await graphQLClient.CreteHealthGuide(healthGuide);
+                if (response != null)
+                {
+                    navigationManager.NavigateTo("/HealthGuides/HealthGuideList");
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            // Xử lý lỗi nếu có
+        }
+    }
+}

@@ -278,6 +278,18 @@ namespace VaccinaCareWCFReferences
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IHealthGuideSoapService/GetById", ReplyAction="http://tempuri.org/IHealthGuideSoapService/GetByIdResponse")]
         System.Threading.Tasks.Task<VaccinaCareWCFReferences.HealthGuide> GetByIdAsync(int id);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IHealthGuideSoapService/Create", ReplyAction="http://tempuri.org/IHealthGuideSoapService/CreateResponse")]
+        System.Threading.Tasks.Task<int> CreateAsync(VaccinaCareWCFReferences.HealthGuide healthGuide);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IHealthGuideSoapService/Update", ReplyAction="http://tempuri.org/IHealthGuideSoapService/UpdateResponse")]
+        System.Threading.Tasks.Task<int> UpdateAsync(VaccinaCareWCFReferences.HealthGuide healthGuide);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IHealthGuideSoapService/Delete", ReplyAction="http://tempuri.org/IHealthGuideSoapService/DeleteResponse")]
+        System.Threading.Tasks.Task<bool> DeleteAsync(int id);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IHealthGuideSoapService/GetHealthGuideCategories", ReplyAction="http://tempuri.org/IHealthGuideSoapService/GetHealthGuideCategoriesResponse")]
+        System.Threading.Tasks.Task<VaccinaCareWCFReferences.HealthGuideCategory[]> GetHealthGuideCategoriesAsync();
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
@@ -338,6 +350,26 @@ namespace VaccinaCareWCFReferences
         public System.Threading.Tasks.Task<VaccinaCareWCFReferences.HealthGuide> GetByIdAsync(int id)
         {
             return base.Channel.GetByIdAsync(id);
+        }
+        
+        public System.Threading.Tasks.Task<int> CreateAsync(VaccinaCareWCFReferences.HealthGuide healthGuide)
+        {
+            return base.Channel.CreateAsync(healthGuide);
+        }
+        
+        public System.Threading.Tasks.Task<int> UpdateAsync(VaccinaCareWCFReferences.HealthGuide healthGuide)
+        {
+            return base.Channel.UpdateAsync(healthGuide);
+        }
+        
+        public System.Threading.Tasks.Task<bool> DeleteAsync(int id)
+        {
+            return base.Channel.DeleteAsync(id);
+        }
+        
+        public System.Threading.Tasks.Task<VaccinaCareWCFReferences.HealthGuideCategory[]> GetHealthGuideCategoriesAsync()
+        {
+            return base.Channel.GetHealthGuideCategoriesAsync();
         }
         
         public virtual System.Threading.Tasks.Task OpenAsync()

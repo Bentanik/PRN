@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Learn/prn231/SP25_NET1721_RPR231_ASM5_SE170255_VyNMV/VaccinaCare.SoapClients.MVC.VyNMV/Views/HealthGuides/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoR3VpZGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Learn/prn231/SP25_NET1721_RPR231_ASM5_SE170255_VyNMV/VaccinaCare.SoapClients.MVC.VyNMV/Views/HealthGuides/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoR3VpZGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learn/prn231/SP25_NET1721_RPR231_ASM5_SE170255_VyNMV/VaccinaCare.SoapClients.MVC.VyNMV/Views/HealthGuides/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhbHRoR3VpZGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Learn/prn231/SP25_NET1721_RPR231_ASM5_SE170255_VyNMV/VaccinaCare.SoapClients.MVC.VyNMV/Views/HealthGuides/Index.cshtml]

@@ -50,8 +50,7 @@
               "RelativeToolTip": "VaccinaCare.Services\\HealthGuidService.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAqwDwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T19:44:27.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T19:44:27.07Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "VaccinaCare.Repositories\\Base\\GenericRepository.cs",
               "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM2_SE170255_VyNMV\\VaccinaCare.Repositories\\Base\\GenericRepository.cs",
               "RelativeToolTip": "VaccinaCare.Repositories\\Base\\GenericRepository.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAwJwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwI8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T19:44:02.839Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "VaccinaCare.Repositories\\HealthGuideRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAywBgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T19:44:00.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T19:44:00.572Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "VaccinaCare.Repositories\\Models\\HealthGuide.cs",
               "ViewState": "AgIAABAAAAAAAAAAAABBwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:14:52.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:14:52.071Z"
             }
           ]
         },

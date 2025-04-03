@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapclients.mvc.vynmv\\controllers\\healthguidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|solutionrelative:vaccinacare.soapclients.mvc.vynmv\\controllers\\healthguidescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapclients.mvc.vynmv\\views\\healthguides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|solutionrelative:vaccinacare.soapclients.mvc.vynmv\\views\\healthguides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapclients.mvc.vynmv\\views\\healthguides\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|solutionrelative:vaccinacare.soapclients.mvc.vynmv\\views\\healthguides\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapclients.mvc.vynmv\\views\\healthguides\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|solutionrelative:vaccinacare.soapclients.mvc.vynmv\\views\\healthguides\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapclients.mvc.vynmv\\soapclients\\soapconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|solutionrelative:vaccinacare.soapclients.mvc.vynmv\\soapclients\\soapconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EE018F-0728-418B-8FC5-6D56E55E0C07}|VaccinaCare.Services\\VaccinaCare.Services.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.services\\healthguidcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EE018F-0728-418B-8FC5-6D56E55E0C07}|VaccinaCare.Services\\VaccinaCare.Services.csproj|solutionrelative:vaccinacare.services\\healthguidcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D018C490-94C2-4435-B35F-7826B42402E3}|VaccinaCare.SoapAPIServices.VyNMV\\VaccinaCare.SoapAPIServices.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapapiservices.vynmv\\soapservices\\healthguidesoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D018C490-94C2-4435-B35F-7826B42402E3}|VaccinaCare.SoapAPIServices.VyNMV\\VaccinaCare.SoapAPIServices.VyNMV.csproj|solutionrelative:vaccinacare.soapapiservices.vynmv\\soapservices\\healthguidesoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D018C490-94C2-4435-B35F-7826B42402E3}|VaccinaCare.SoapAPIServices.VyNMV\\VaccinaCare.SoapAPIServices.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapapiservices.vynmv\\soapmodels\\healthguidecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D018C490-94C2-4435-B35F-7826B42402E3}|VaccinaCare.SoapAPIServices.VyNMV\\VaccinaCare.SoapAPIServices.VyNMV.csproj|solutionrelative:vaccinacare.soapapiservices.vynmv\\soapmodels\\healthguidecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D018C490-94C2-4435-B35F-7826B42402E3}|VaccinaCare.SoapAPIServices.VyNMV\\VaccinaCare.SoapAPIServices.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapapiservices.vynmv\\soapmodels\\healthguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D018C490-94C2-4435-B35F-7826B42402E3}|VaccinaCare.SoapAPIServices.VyNMV\\VaccinaCare.SoapAPIServices.VyNMV.csproj|solutionrelative:vaccinacare.soapapiservices.vynmv\\soapmodels\\healthguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm5_se170255_vynmv\\vaccinacare.soapclients.mvc.vynmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF797B46-A311-46B6-AC99-1967ABE2A13E}|VaccinaCare.SoapClients.MVC.VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV.csproj|solutionrelative:vaccinacare.soapclients.mvc.vynmv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +63,128 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Edit.cshtml",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Edit.cshtml",
+              "RelativeToolTip": "VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T23:14:03.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Create.cshtml",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Create.cshtml",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Create.cshtml",
+              "RelativeToolTip": "VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T23:12:02.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthGuidCategoryService.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.Services\\HealthGuidCategoryService.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.Services\\HealthGuidCategoryService.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.Services\\HealthGuidCategoryService.cs",
+              "RelativeToolTip": "VaccinaCare.Services\\HealthGuidCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:04:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthGuideSoapService.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapAPIServices.VyNMV\\SoapServices\\HealthGuideSoapService.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapAPIServices.VyNMV\\SoapServices\\HealthGuideSoapService.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapAPIServices.VyNMV\\SoapServices\\HealthGuideSoapService.cs",
+              "RelativeToolTip": "VaccinaCare.SoapAPIServices.VyNMV\\SoapServices\\HealthGuideSoapService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:02:28.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealthGuide.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuide.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuide.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuide.cs",
+              "RelativeToolTip": "VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuide.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:02:23.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthGuideCategory.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuideCategory.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuideCategory.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuideCategory.cs",
+              "RelativeToolTip": "VaccinaCare.SoapAPIServices.VyNMV\\SoapModels\\HealthGuideCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:02:18.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoapConsumer.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\SoapClients\\SoapConsumer.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapClients.MVC.VyNMV\\SoapClients\\SoapConsumer.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\SoapClients\\SoapConsumer.cs",
+              "RelativeToolTip": "VaccinaCare.SoapClients.MVC.VyNMV\\SoapClients\\SoapConsumer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADwv2UAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:00:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthGuidesController.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HealthGuidesController.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HealthGuidesController.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HealthGuidesController.cs",
+              "RelativeToolTip": "VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HealthGuidesController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:59:35.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Index.cshtml",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Index.cshtml",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Index.cshtml",
+              "RelativeToolTip": "VaccinaCare.SoapClients.MVC.VyNMV\\Views\\HealthGuides\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T22:59:23.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM5_SE170255_VyNMV\\VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VaccinaCare.SoapClients.MVC.VyNMV\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:45:48.122Z"
             }
           ]
         },

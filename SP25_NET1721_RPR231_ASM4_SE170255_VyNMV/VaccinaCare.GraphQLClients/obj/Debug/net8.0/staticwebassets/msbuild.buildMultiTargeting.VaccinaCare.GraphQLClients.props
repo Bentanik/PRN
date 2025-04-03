@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\VaccinaCare.GraphQLClients.props" />
-</Project>

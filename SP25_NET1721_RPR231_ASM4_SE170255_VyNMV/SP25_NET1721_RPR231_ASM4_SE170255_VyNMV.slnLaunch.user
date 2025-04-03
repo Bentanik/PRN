@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "VaccinaCare.GraphQLClients\\VaccinaCare.GraphQLClients.csproj",
+        "Path": "VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj",
         "Action": "Start"
       }
     ]

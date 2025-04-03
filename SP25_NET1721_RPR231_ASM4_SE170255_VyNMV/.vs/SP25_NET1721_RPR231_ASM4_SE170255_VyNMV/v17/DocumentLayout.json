@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{827D2C95-D038-42CB-8119-E7B4D7DB110F}|VaccinaCare.Repositories\\VaccinaCare.Repositories.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.repositories\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{827D2C95-D038-42CB-8119-E7B4D7DB110F}|VaccinaCare.Repositories\\VaccinaCare.Repositories.csproj|solutionrelative:vaccinacare.repositories\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.graphql.client\\graphqlclients\\graphqlconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|solutionrelative:vaccinacare.graphql.client\\graphqlclients\\graphqlconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8194AB13-AFD1-448D-8630-9B85742E9846}|VaccinaCare.Services\\VaccinaCare.Services.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.services\\healthguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8194AB13-AFD1-448D-8630-9B85742E9846}|VaccinaCare.Services\\VaccinaCare.Services.csproj|solutionrelative:vaccinacare.services\\healthguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.graphql.client\\pages\\healthguides\\healthguideform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|solutionrelative:vaccinacare.graphql.client\\pages\\healthguides\\healthguideform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.graphql.client\\pages\\healthguides\\healthguidedetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|solutionrelative:vaccinacare.graphql.client\\pages\\healthguides\\healthguidedetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.graphql.client\\pages\\healthguides\\healthguidelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A82E49-321B-4F70-BF74-DBD2134C4041}|VaccinaCare.GraphQL.Client\\VaccinaCare.GraphQL.Client.csproj|solutionrelative:vaccinacare.graphql.client\\pages\\healthguides\\healthguidelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE74DCE-CFFA-4D6C-A587-24C74E0A3969}|VaccinaCare.GraphQL.APIServices\\VaccinaCare.GraphQL.APIServices.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.graphql.apiservices\\graphqls\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE74DCE-CFFA-4D6C-A587-24C74E0A3969}|VaccinaCare.GraphQL.APIServices\\VaccinaCare.GraphQL.APIServices.csproj|solutionrelative:vaccinacare.graphql.apiservices\\graphqls\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE74DCE-CFFA-4D6C-A587-24C74E0A3969}|VaccinaCare.GraphQL.APIServices\\VaccinaCare.GraphQL.APIServices.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.graphql.apiservices\\graphqls\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE74DCE-CFFA-4D6C-A587-24C74E0A3969}|VaccinaCare.GraphQL.APIServices\\VaccinaCare.GraphQL.APIServices.csproj|solutionrelative:vaccinacare.graphql.apiservices\\graphqls\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CE74DCE-CFFA-4D6C-A587-24C74E0A3969}|VaccinaCare.GraphQL.APIServices\\VaccinaCare.GraphQL.APIServices.csproj|d:\\learn\\prn231\\sp25_net1721_rpr231_asm4_se170255_vynmv\\vaccinacare.graphql.apiservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE74DCE-CFFA-4D6C-A587-24C74E0A3969}|VaccinaCare.GraphQL.APIServices\\VaccinaCare.GraphQL.APIServices.csproj|solutionrelative:vaccinacare.graphql.apiservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,64 +46,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HealthGuidService.cs",
-              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.Services\\HealthGuidService.cs",
-              "RelativeDocumentMoniker": "VaccinaCare.Services\\HealthGuidService.cs",
-              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.Services\\HealthGuidService.cs",
-              "RelativeToolTip": "VaccinaCare.Services\\HealthGuidService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:41:35.28Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.Repositories\\Base\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "VaccinaCare.Repositories\\Base\\GenericRepository.cs",
-              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.Repositories\\Base\\GenericRepository.cs",
-              "RelativeToolTip": "VaccinaCare.Repositories\\Base\\GenericRepository.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAowIwAAAAJAAAAAAAAAA==",
+              "Title": "GraphQLConsumer.cs",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\GraphQLClients\\GraphQLConsumer.cs",
+              "RelativeDocumentMoniker": "VaccinaCare.GraphQL.Client\\GraphQLClients\\GraphQLConsumer.cs",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\GraphQLClients\\GraphQLConsumer.cs",
+              "RelativeToolTip": "VaccinaCare.GraphQL.Client\\GraphQLClients\\GraphQLConsumer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwIUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:40:23.251Z",
+              "WhenOpened": "2025-04-03T22:34:49.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.APIServices\\Program.cs",
-              "RelativeDocumentMoniker": "VaccinaCare.GraphQL.APIServices\\Program.cs",
-              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.APIServices\\Program.cs",
-              "RelativeToolTip": "VaccinaCare.GraphQL.APIServices\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:33:48.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Query.cs",
-              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.APIServices\\GraphQLs\\Query.cs",
-              "RelativeDocumentMoniker": "VaccinaCare.GraphQL.APIServices\\GraphQLs\\Query.cs",
-              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.APIServices\\GraphQLs\\Query.cs",
-              "RelativeToolTip": "VaccinaCare.GraphQL.APIServices\\GraphQLs\\Query.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswBoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:33:46.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Mutation.cs",
               "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.APIServices\\GraphQLs\\Mutation.cs",
               "RelativeDocumentMoniker": "VaccinaCare.GraphQL.APIServices\\GraphQLs\\Mutation.cs",
               "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.APIServices\\GraphQLs\\Mutation.cs",
               "RelativeToolTip": "VaccinaCare.GraphQL.APIServices\\GraphQLs\\Mutation.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:33:37.908Z"
+              "WhenOpened": "2025-04-03T22:31:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthGuideForm.razor",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideForm.razor",
+              "RelativeDocumentMoniker": "VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideForm.razor",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideForm.razor",
+              "RelativeToolTip": "VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideForm.razor",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv04AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T22:31:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthGuideList.razor",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideList.razor",
+              "RelativeDocumentMoniker": "VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideList.razor",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideList.razor",
+              "RelativeToolTip": "VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideList.razor",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T22:28:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthGuideDetail.razor",
+              "DocumentMoniker": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideDetail.razor",
+              "RelativeDocumentMoniker": "VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideDetail.razor",
+              "ToolTip": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideDetail.razor",
+              "RelativeToolTip": "VaccinaCare.GraphQL.Client\\Pages\\HealthGuides\\HealthGuideDetail.razor",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T22:28:33.696Z",
+              "EditorCaption": ""
             }
           ]
         },

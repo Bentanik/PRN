@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\VaccinaCare.GraphQL.Client.styles.css",
+      "PackagePath": "staticwebassets\\VaccinaCare.GraphQL.Client.styles.css"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Learn\\prn231\\SP25_NET1721_RPR231_ASM4_SE170255_VyNMV\\VaccinaCare.GraphQL.Client\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VaccinaCare.GraphQL.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VaccinaCare.GraphQL.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VaccinaCare.GraphQL.Client.props",
+      "PackagePath": "build\\VaccinaCare.GraphQL.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VaccinaCare.GraphQL.Client.props",
+      "PackagePath": "buildMultiTargeting\\VaccinaCare.GraphQL.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VaccinaCare.GraphQL.Client.props",
+      "PackagePath": "buildTransitive\\VaccinaCare.GraphQL.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

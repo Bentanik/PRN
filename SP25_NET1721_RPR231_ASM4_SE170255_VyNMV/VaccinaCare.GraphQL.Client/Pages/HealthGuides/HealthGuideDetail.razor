@@ -1,0 +1,65 @@
+﻿@page "/HealthGuides/HealthGuideDetail/{id:int}"
+@using VaccinaCare.GraphQL.Client;
+@using VaccinaCare.GraphQL.Client.GraphQLClients;
+@using VaccinaCare.GraphQL.Client.Models;
+@inject NavigationManager Navigation
+
+
+<h3>Health Guide Detail</h3>
+
+@if (healthGuide == null)
+{
+    <h3>Loading...</h3>
+}
+else
+{
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">@healthGuide.Title</h5>
+            <p class="card-text">@healthGuide.Content</p>
+            <ul class="list-group">
+                <li class="list-group-item"><strong>Author:</strong> @healthGuide.Author</li>
+                <li class="list-group-item"><strong>Content:</strong> @(healthGuide.Content)</li>
+                <li class="list-group-item"><strong>Category ID:</strong> @healthGuide.HealthGuideCategorieId</li>
+                <li class="list-group-item"><strong>Created At:</strong> @healthGuide.CreatedAt</li>
+                <li class="list-group-item"><strong>Updated At:</strong> @healthGuide.UpdatedAt</li>
+                <li class="list-group-item"><strong>Is Active:</strong> @(healthGuide.IsActive)</li>
+                <li class="list-group-item"><strong>ImageUrl:</strong> @(healthGuide.ImageUrl)</li>
+                <li class="list-group-item"><strong>Views:</strong> @healthGuide.Views</li>
+            </ul>
+            <br /><br />
+            <button class="btn btn-danger" @onclick="DeleteHealthGuide">Delete</button>
+            <a href="/HealthGuides/HealthGuideList" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public int Id { get; set; }
+    private HealthGuide? healthGuide;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var _graphQLClient = new GraphQLConsumer();
+        healthGuide = await _graphQLClient.GetDetailsHealthGuide(Id.ToString());
+    }
+}
+
+@code {
+    private async Task DeleteHealthGuide()
+    {
+        var _graphQLClient = new GraphQLConsumer();
+        var success = await _graphQLClient.DeleteHealthGuide(Id);
+
+        if (success)
+        {
+            // Chuyển hướng về danh sách sau khi xóa
+            Navigation.NavigateTo("/HealthGuides/HealthGuideList");
+        }
+        else
+        {
+            // Hiển thị lỗi nếu cần
+            Console.WriteLine("Failed to delete health guide");
+        }
+    }
+}
